@@ -1,0 +1,18 @@
+# MCP configuration
+.mcp.json
+
+# Claude
+.claude/
+
+# Libraries
+lib/
+
+# Python cache
+__pycache__/
+
+# Temporary files
+all_paths.html
+
+# Project directories
+beginner/
+output/
