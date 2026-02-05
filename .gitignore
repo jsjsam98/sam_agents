@@ -10,8 +10,15 @@ lib/
 # Python cache
 __pycache__/
 
+# Node.js
+node_modules/
+
 # Temporary files
 all_paths.html
 
 # Project directories
 output/
+
+# PocketBase
+pocketbase.exe
+pb_data/
